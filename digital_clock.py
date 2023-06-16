@@ -1,3 +1,7 @@
+# This script provides a simple digital display clock. 
+# Time, Day of week and Date are displayed in the output. 
+# Color scheme is configured to look like a Linux Terminal.
+
 # Import required modules
 import tkinter as tk
 from time import strftime
